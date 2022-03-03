@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod tmp/betty/hello
+chown /betty/hello
